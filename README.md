@@ -11,11 +11,15 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Machine Learning and Deep Learning using python         | <a href="https://google.com">Detection Lab</a>|
-| Software Development using Java | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis         | SOC Automation Lab|
+| Skill Area | Technologies | Related Project |
+|------------|--------------|------------------|
+| **Machine Learning & AI** | Python, Scikit-Learn, PyTorch | Phishing Email Detection System API |
+| **API Development & Deployment** | FastAPI, Uvicorn, REST API | Phishing Email Detection System API |
+| **Software Engineering & OOP** | Java, MVC Architecture, JavaFX | Runway Safety & Re-declaration System |
+| **Agile Methodologies** | Scrum, Jira, Team Collaboration | Runway Safety & Re-declaration System |
+| **Cybersecurity & SIEM** | SIEM (Security Onion/ELK), Log Analysis | SOC Automation Lab (WIP) |
+
+
 
 ## Tools
 
@@ -34,6 +38,7 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Uvicorn-000000?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
@@ -46,5 +51,4 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
