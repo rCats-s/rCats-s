@@ -12,8 +12,8 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
 
 | Skill Area | Technologies | Related Project |
 |------------|--------------|------------------|
-| **Machine Learning & AI** | Python, Scikit-Learn, PyTorch | Phishing Email Detection System API |
-| **API Development & Deployment** | FastAPI, Uvicorn, REST API | Phishing Email Detection System API |
+| **Machine Learning & AI** | Python, Scikit-Learn, PyTorch | [Phishing Email Detection System API](https://github.com/rCats-s/email-phishing-api) |
+| **API Development & Deployment** | FastAPI, Uvicorn, REST API | [Phishing Email Detection System API](https://github.com/rCats-s/email-phishing-api) |
 | **Software Engineering & OOP** | Java, MVC Architecture, JavaFX | Runway Safety & Re-declaration System |
 | **Agile Methodologies** | Scrum, Jira, Team Collaboration | Runway Safety & Re-declaration System |
 | **Cybersecurity & SIEM** | SIEM (Security Onion/ELK), Log Analysis | SOC Automation Lab (WIP) |
