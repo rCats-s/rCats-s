@@ -1,5 +1,7 @@
 # Hello, I'm Bharat  
 
+Email: bharatrajravichandran@gmail.com
+
 I am a third-year MEng Computer Science with Industrial Studies student at the University of Southampton, with strong interests in Artificial Intelligence, Machine Learning, Software Engineering, and Cybersecurity. I enjoy building practical projects and continuously developing my technical and professional skills.
 
 
