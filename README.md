@@ -1,5 +1,4 @@
 # Hello, I'm Bharat  
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a third-year MEng Computer Science with Industrial Studies student at the University of Southampton, with strong interests in Artificial Intelligence, Machine Learning, Software Engineering, and Cybersecurity. I enjoy building practical projects and continuously developing my technical and professional skills.
 
@@ -50,5 +49,7 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
   <img src="https://img.shields.io/badge/-ORMLite-FFA500?&style=for-the-badge" />
 </div>
 
-## Projects
+## Project Completed
+- Runway Safety & Re-declaration System 
+- Phishing Email Detection System API
 
