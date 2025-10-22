@@ -52,6 +52,6 @@ I am seeking a Year-in-Industry placement where I can apply my technical skills,
 </div>
 
 ## Project Completed
-- Runway Safety & Re-declaration System 
-- Phishing Email Detection System API
+- [Phishing Email Detection System API](https://github.com/rCats-s/email-phishing-api) 
+- [Runway Safety & Re-declaration System](https://github.com/rCats-s/runway-safety-system)
 
