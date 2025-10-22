@@ -6,19 +6,15 @@ I am a third year student at University of Southampton doing MEng Computer Scien
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for this field, and I am now eager to gain valuable expereince in real work environment. Specifically aiming to join a highly respected company for Indutrsial Year Placement role.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Machine Learning and Deep Learning using python         | <a href="https://google.com">Detection Lab</a>|
+| Software Development using Java | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis         | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
