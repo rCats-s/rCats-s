@@ -1,9 +1,7 @@
 # Hello, I'm Bharat
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a third year student at University of Southampton doing MEng Computer Science with Industrial Studies. I have with a profound interest in AI and Machine Learning, Software Engineering and want to learn more about Cyber Security.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
