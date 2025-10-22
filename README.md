@@ -1,12 +1,13 @@
-# Hello, I'm Bharat
+# Hello, I'm Bharat  
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a third year student at University of Southampton doing MEng Computer Science with Industrial Studies. I have with a profound interest in AI and Machine Learning, Software Engineering and want to learn more about Cyber Security.
+I am a third-year MEng Computer Science with Industrial Studies student at the University of Southampton, with strong interests in Artificial Intelligence, Machine Learning, Software Engineering, and Cybersecurity. I enjoy building practical projects and continuously developing my technical and professional skills.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for this field, and I am now eager to gain valuable expereince in real work environment. Specifically aiming to join a highly respected company for Indutrsial Year Placement role.
+I am seeking a Year-in-Industry placement where I can apply my technical skills, contribute to impactful projects, and gain real-world experience in a professional environment. I aim to join an innovative and growth-oriented company that values learning, collaboration, and technical excellence.
+
 
 ## Skills
 
@@ -17,36 +18,31 @@ My journey in computer science has led me to develop a passion for this field, a
 | SIEM Implementation and Log Analysis         | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Software Development & Architecture
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaFX-007396?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MVC_Architecture-000000?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-### Endpoint
+### Machine Learning & API Development
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Uvicorn-000000?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?&style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-### SIEM
+### Development & Collaboration
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scrum-6DB33F?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-25A162?&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-ORMLite-FFA500?&style=for-the-badge" />
 </div>
 
 ## Projects
